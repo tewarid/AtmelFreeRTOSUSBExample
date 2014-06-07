@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "FREERTOS_UC3_EXAMPLE1", "FREERTOS_UC3_EXAMPLE1\FREERTOS_UC3_EXAMPLE1.cproj", "{B677B766-16AD-408A-8573-73826A046D6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B677B766-16AD-408A-8573-73826A046D6F}.Debug|AVR.ActiveCfg = Debug|AVR
+		{B677B766-16AD-408A-8573-73826A046D6F}.Debug|AVR.Build.0 = Debug|AVR
+		{B677B766-16AD-408A-8573-73826A046D6F}.Release|AVR.ActiveCfg = Release|AVR
+		{B677B766-16AD-408A-8573-73826A046D6F}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
